@@ -77,7 +77,7 @@ The [Windows Package Manager](https://docs.microsoft.com/windows/package-manager
 
    ~~~ cmd
    winget install Git.Git
-   winget install Python.Python.3 --version 3.10.2150.0
+   winget install Python.Python.3.10
 
    curl -sOL https://aka.ms/vs/16/release/vs_community.exe
    start /w vs_community.exe --passive --wait --norestart --nocache ^
