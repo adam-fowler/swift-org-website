@@ -165,3 +165,17 @@
   pitched: 2023-08-03
   accepted: 2023-09-28
   url: https://github.com/vapor/sqlite-nio
+
+- name: DiscordBM
+  description: A New Multiplatform Swift Discord Library, Primarily For Making Bots
+  maturity: Sandbox
+  pitched: 2023-05-05
+  accepted: 2023-09-27
+  url: https://github.com/DiscordBM/DiscordBM
+
+- name: Swift OpenAPI Generator
+  description: Generate Swift client and server code from an OpenAPI document.
+  maturity: Sandbox
+  pitched: 2023-08-04
+  accepted: 2023-09-27
+  url: https://github.com/apple/swift-openapi-generator
